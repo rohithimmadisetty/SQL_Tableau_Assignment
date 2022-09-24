@@ -1,0 +1,6 @@
+Cancellation_code,Description
+A,Carrier Delay
+B,Weather Delay
+C,NAS Delay
+D,Security Delay
+N,Flight not cancelled
